@@ -1,6 +1,6 @@
 # 🔐 Android Security Labs
 
-## 📖 About 
+## 📖 This is About 
 
 This repository contains a set of vulnerable Android applications created to **teach Android security** through hands-on labs.  
 Each lab includes a specific type of vulnerability and a hidden **flag**. Your goal is to identify and exploit the issue to retrieve the flag.
