@@ -1,6 +1,6 @@
 # Android ContentProvider Vulnerability Labs
 
-This repository includes vulnerable Android APKs designed to help you learn and practice exploiting common security issues in Android `ContentProvider` components.
+This repository includes vulnerable Android APKs designed to help you learn and practice exploiting common security issues in Android `ContentProvider`.
 
 ## 🔍 Lab Overview
 
